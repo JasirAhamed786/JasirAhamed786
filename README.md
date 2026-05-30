@@ -14,20 +14,15 @@
 
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jasir%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Integrations%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jasir%20Ahamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Integrations%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa" alt="Header Banner"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=🚀+Building+Scalable+Web+Applications;🤖+Integrating+AI+into+Real+Solutions;💡+Bridging+Full-Stack+%2B+Generative+AI;⚡+Turning+Ideas+into+Impactful+Tools" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Integrating+AI+into+Real+Solutions;Bridging+Full-Stack+and+Generative+AI;Turning+Ideas+into+Impactful+Tools)](https://git.io/typing-svg)
 
-<br/>
+<br/><br/>
 
-<!-- Profile View Counter + Followers -->
-<img src="https://komarev.com/ghpvc/?username=jasirAhamed786&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=jasirAhamed786&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/jasirAhamed786?style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/jasirAhamed786?style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -145,7 +140,7 @@ fun_fact: When I'm not competing in hackathons or coding, you'll find me volunte
 
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 Design Tools</b></summary>
 <br/>
 
@@ -161,23 +156,26 @@ fun_fact: When I'm not competing in hackathons or coding, you'll find me volunte
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasirAhamed786&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=400"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=jasirAhamed786&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JasirAhamed786&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasirAhamed786&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=300"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=JasirAhamed786&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JasirAhamed786&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </div>
 
 ---
 
 <!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=jasirAhamed786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
-</div>
+</div>-->
 
 ---
 
