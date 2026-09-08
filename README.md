@@ -1,5 +1,3 @@
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -45,9 +43,10 @@ focus: Bridging MERN Stack Development with Generative AI
 fun_fact: When I'm not competing in hackathons or coding, you'll find me volunteering, going for a ride, or walking to clear my head!
 ```
 
+- 🎯 **Actively seeking Software Developer / AI Analyst roles** — open to opportunities
+- 💼 Built **Clario**, an AI coaching assistant with a 6-agent LLM pipeline, during my Infosys internship
 - 🔭 Passionate about building **scalable web applications**
-- 🤖 Love **integrating AI** into practical, everyday solutions  
-- 🌱 Always learning at the intersection of **Dev + AI**
+- 🤖 Love **integrating AI (RAG, LLM agents, multi-model pipelines)** into practical solutions
 - 💬 Ask me about **React, Node.js, Python, or AI tools**
 - 📫 Reach me at **jasirahamed387@gmail.com**
 
@@ -67,6 +66,68 @@ fun_fact: When I'm not competing in hackathons or coding, you'll find me volunte
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasirahamed387@gmail.com)
 
 </div>
+
+---
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [Clario](https://github.com/JasirAhamed786/Infosys-RAG-Project)
+AI-powered real-time customer support coaching assistant — built as an Infosys internship project. Six-agent LLM pipeline (Groq Llama 3.3 70B + Google Gemini) with SSE streaming, RAG-based knowledge retrieval, and live performance analytics.
+
+`FastAPI` `React/TypeScript` `MongoDB` `ChromaDB` `Groq` `Gemini`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Ninaivugal (Genesis)](https://github.com/JasirAhamed786/Genesis-Ninaivugal-)
+An advanced AI memory vault that stores, retrieves, and creatively reinterprets user memories using multimodal AI APIs.
+
+`Python` `Streamlit` `OpenAI` `LangChain` `ChromaDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-commerce — Laptop](https://github.com/JasirAhamed786/E-commerce---Laptop)
+A MERN stack e-commerce marketplace for students, featuring an integrated AI chatbot to assist with tech and gear shopping.
+
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [Unifield — Confiweb](https://github.com/JasirAhamed786/Unifield-Confiweb)
+A unified web portal providing agricultural data, expert guidance, market prices, and policy updates for farmers and stakeholders.
+
+`JavaScript` `MERN Stack`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 [Hexagrad](https://github.com/JasirAhamed786/Hexagrad)
+A Flutter-based web and mobile platform delivering personalized career and education guidance for students after Class 10 and Class 12.
+
+`Flutter` `Dart`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩸 [LifeForce](https://github.com/JasirAhamed786/LifeForce)
+A mobile app connecting blood donors with recipients in real time — donor discovery by blood group/location and emergency request support.
+
+`Java` `Android`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -156,13 +217,7 @@ fun_fact: When I'm not competing in hackathons or coding, you'll find me volunte
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JasirAhamed786&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=JasirAhamed786&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JasirAhamed786&theme=tokyonight&hide_border=true&layout=compact"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=JasirAhamed786&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -176,17 +231,6 @@ fun_fact: When I'm not competing in hackathons or coding, you'll find me volunte
 ![](https://github-profile-trophy.vercel.app/?username=jasirAhamed786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>-->
-
----
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Jasir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasirAhamed786&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
